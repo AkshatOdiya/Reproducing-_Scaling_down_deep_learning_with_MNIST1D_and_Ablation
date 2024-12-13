@@ -1,0 +1,1 @@
+# Reproducing-_Scaling_down_deep_learning_with_MNIST1D_and_Ablation
