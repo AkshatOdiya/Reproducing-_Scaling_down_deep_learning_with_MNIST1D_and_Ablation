@@ -45,5 +45,5 @@ Whatever done under ablation, graphs are also plotted to study the effect of cha
    4. Introducing xavier initialization in the model.
 
 
-All the pickle files are uploaded here: https://drive.google.com/drive/folders/1KbNnp8C7aheVsfqr6vg7_Bhqam23j8d9?usp=drive_link
+All the pickle files are uploaded here: https://drive.google.com/drive/folders/1KbNnp8C7aheVsfqr6vg7_Bhqam23j8d9?usp=sharing
    
