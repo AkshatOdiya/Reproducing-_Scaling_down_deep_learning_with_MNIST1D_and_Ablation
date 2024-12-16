@@ -51,6 +51,9 @@ Whatever done under ablation, graphs are also plotted to study the effect of cha
    2. Perturbation(noise injecting, label permutation, input cropping), explanation about these terms are given in the notebook itself.
    3. Using Exponential sparsity schedule instead of linear schedule.
    4. Introducing xavier initialization in the model.
+   5. There is many ablation that are done by the author itself on spatiality, so not much ablation form my side is peformed there.
+
+Ablation for self-supevised learning part is not performed because of lack of ideas and time that can be implemented there it is the small experiment with little learning.
 
 
 All the pickle files are uploaded here: https://drive.google.com/drive/folders/1KbNnp8C7aheVsfqr6vg7_Bhqam23j8d9?usp=sharing
