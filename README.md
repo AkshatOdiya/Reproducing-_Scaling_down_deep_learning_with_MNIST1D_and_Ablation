@@ -15,17 +15,25 @@ Whatever done under ablation, graphs are also plotted to study the effect of cha
 # 1. Ablation under Deep Double Descent:
    # Explanations are also given in the notebook itself under concerned cell.
    i) This notebook Contains different study files and the titles are given itself under each ablation.
+   
    ii) Effect of hidden layers: Tests the effect of numbers of hidden layers on Classification Error. And the graph is plotted below to clearly show the effect.
+   
    iii) Effect of label noise: Iterates through values for noise to be introduced in Testing dataset for study and a graph to show the effect.
+   
    iv) Dropout: To study if any regularization is required, but the graph shows something else(explanation is given under cell).
+   
    v) Effect of hidden layer sizes: Itreates through different values of hidden layer sizes and plotting the graph to study the effect.
-   vi) An attempt is also made to study the effect of changing the parameters altogether, parameters include hidden layer sizes, number of layers, noise levels, dropout rate. It is difficult to plot the effet altoghter, but a heat map is plotted that shows the effect of changing dropout rate and noise on test error. The results are also stored in pickle file, and can be used to plot other graphs.
+   
+   vi) An attempt is also made to study the effect of changing the parameters altogether, parameters include hidden layer sizes, number of layers, noise levels, dropout rate. It is difficult to plot the effect altoghter, but a heat map is plotted that shows the effect of changing dropout rate and noise on test error. The results are also stored in pickle file, and can be used to plot other graphs.
    
 
 # 2. Ablation under Meta-learning Rate,Learning Rate:
    i) Effect of changing initial learning rates.
+   
    ii) Effect of changing Hidden layer sizes.
+   
    iii) Effect of changing meta-leanrning rate.
+   
    Some explanations are given in the notebook itself and graph plots.
    
 
